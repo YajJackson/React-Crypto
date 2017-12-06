@@ -1,7 +1,9 @@
 ## React/ Axios demo
 
-### Just another run of the mill api demonstration
+```
+Just another run of the mill api demonstration
 
-### Using: _React_, _Axios_, _CryptoCompareAPI_
+Using: React, Axios, CryptoCompareAPI
 
-#### Project scaffolded using create-react-app <3
+_Project scaffolded using create-react-app_ <3
+```
